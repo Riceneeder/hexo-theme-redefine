@@ -74,7 +74,7 @@ const pageData = {
 		titles: ["gallery", "瀑布流", "相册", "photos", "photo"],
 		types: ["masonry", "gallery", "瀑布流", "相册", "photos", "photo"],
 		partial: "pages/masonry/masonry",
-		layout: "default",
+		layout: "raw",
 	},
 	publications: {
 		titles: ["publications", "论文", "论文成果", "科研成果"],
